@@ -1,0 +1,93 @@
+/*======== banner section =========*/
+.btn-custom{
+    padding: 10px 60px;
+}
+.banner-title h2{
+    color: #2e6da4;
+}
+.banner-title p h3{
+    color: #232323;
+}
+.banner-image img{
+    height: 100%;
+    width: 100%;
+}
+.banner-image{
+    clip-path: ellipse(55% 83% at 56% 50%);
+}
+/*======== dedication section =========*/
+.dedication{
+    background: #f6f6f6;
+}
+.checked {
+    color: orange;
+}
+.custom-card{
+    min-height: 214px;
+}
+.custom-radius{
+    border-radius: 0px;
+}
+.dedication-icon{
+    font-size: 48px;
+    padding-bottom: 30px;
+}
+.custom-card p{
+    font-weight: 400;
+    margin: 0;
+}
+.custom-card small{
+    font-weight: 300;
+}
+
+/*======== services section =========*/
+.services-title{
+    color: #2e6da4;
+}
+.services-icon{
+    font-size: 40px;
+    color: #2e6da4;
+}
+.services-item{
+    border: 1px solid #d1d1d1;
+    padding: 20px;
+    border-radius: 70px 0px 0px 0px;
+    min-height: 484px;
+}
+.services-item h4{
+    color: #2e6da4;
+}
+.services-item p{
+    font-weight: bold;
+    margin: 0;
+}
+.services-item small{
+    font-weight: 300;
+}
+
+/*======== store section =========*/
+.store-link a:hover{
+    text-decoration: none;
+}
+.store-title p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/*======== empresas confiam =========*/
+.empresas-title h2{
+    color: #2e6da4;
+}
+.empresas-title p{
+    font-weight: bold;
+    font-size: 20px;
+}
+.empresas-item p{
+    color: #7b5961;
+}
+
+/*======== delnext empresas =========*/
+.single-img img{
+    height: 45px;
+    width: 150px;
+}
